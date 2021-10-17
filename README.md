@@ -1,4 +1,10 @@
-### Hi there 👋
+### Ciao! 👋
+
+Mi chiamo Mirko, sono uno sviluppatore Junior Front End Angular
+
+Da sempre nutro una grandissima passione per il mondo della tecnologia e l'informatica, ho intrapreso il mio percorso come sviluppatore Angular frequentando un corso di 6 mesi con Develhope dove ho avuto modo di imparare il framework Angular e prendere maggiore dimistichezza con HTML5, CSS3, JavaScript e TypeScript. Inoltre ho conoscenza base di PHP e MySql.
+
+
 
 <!--
 **giglioDomenicoMirko/giglioDomenicoMirko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
