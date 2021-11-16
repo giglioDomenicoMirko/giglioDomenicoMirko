@@ -23,7 +23,7 @@ With Develhope I followed a six-month course. The course focused on front end de
 > - TypeScript
 > - Angular
 
-I have previous knowledge of PHP and SQL. In the past I have had the opportunity to carry out small projects with CMS Joomla and WordPress.
+I have previous knowledge of PHP and SQL. In the past I had the opportunity to carry out some small projects with CMS Joomla and WordPress.
 
 ***
 
